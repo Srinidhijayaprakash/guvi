@@ -1,5 +1,5 @@
-srinu=int(input())
-if(srinu%2==0):
+a=int(input())
+if(a%2==0):
   print("Even")
 elif(a%2!=0):
   print("Odd")
