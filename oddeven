@@ -1,7 +1,7 @@
-a=int(input())
-if(a%2==0):
+srinu=int(input())
+if(srinu%2==0):
   print("Even")
-elif:
+elif(a%2!=0):
   print("Odd")
 else:
   print("invalid")
